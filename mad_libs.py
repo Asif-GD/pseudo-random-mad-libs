@@ -15,30 +15,30 @@ random_story = 1
 adjective_1 = input("an adjective: ")
 noun_1 = input("a noun (animal): ")
 verb_1 = input("a verb (past tense): ")
-adverb_1 = input("an adverb: ")
+# adverb_1 = input("an adverb: ")
 adjective_2 = input("an adjective: ")
 noun_2 = input("a noun (place/location): ")
 noun_3 = input("a noun (food): ")
 noun_4 = input("a noun (animal): ")
 adjective_3 = input("an adjective: ")
 verb_2 = input("a verb: ")
-adverb_2 = input("an adverb: ")
-verb_3 = input("a verb (past tense): ")
+# adverb_2 = input("an adverb: ")
+# verb_3 = input("a verb (past tense): ")
 adjective_4 = input("an adjective: ")
 
 user_inputs = {
     "adjective_1": adjective_1,
     "noun_1": noun_1,
     "verb_1": verb_1,
-    "adverb_1": adverb_1,
+    # "adverb_1": adverb_1,
     "adjective_2": adjective_2,
     "noun_2": noun_2,
     "noun_3": noun_3,
     "noun_4": noun_4,
     "adjective_3": adjective_3,
     "verb_2": verb_2,
-    "adverb_2": adverb_2,
-    "verb_3": verb_3,
+    # "adverb_2": adverb_2,
+    # "verb_3": verb_3,
     "adjective_4": adjective_4,
 }
 
