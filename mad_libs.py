@@ -1,11 +1,16 @@
 # mad libs
 # I will export a random mab lib from a file and ask the user to input words for it.
+
 # name = input("May I know your name please? ")
 # verb_1 = input("a verb: ")
 # adjective_1 = input("an adjective: ")
 #
 # sample_mad_lib = f"Hi {name}, you are here to {verb_1}. Do not give up for you are {adjective_1}."
 # print(sample_mad_lib)
+
+# random_story = randint(1, 5)
+
+random_story = 1
 
 adjective_1 = input("an adjective: ")
 noun_1 = input("a noun (animal): ")
@@ -21,11 +26,25 @@ adverb_2 = input("an adverb: ")
 verb_3 = input("a verb (past tense): ")
 adjective_4 = input("an adjective: ")
 
-mad_libs = f"A Day At The Zoo! \n \
-Today I went to the zoo. I saw a(n) {adjective_1} {noun_1} jumping up and down in its habitat. \n \
-He {verb_1} {adverb_1} through the large tunnel that led to its {adjective_2} {noun_2}. \n \
-I got some {noun_3} and passed them through the cage to a gigantic gray {noun_4} towering above my head. \n \
-Feeding that animal made me hungry. I went to get a {adjective_3} scoop of ice cream. It filled my stomach. \n \
-Afterwards I had to {verb_2} {adverb_2} to catch our bus. When I got home I {verb_3} my \n \
-mom for a {adjective_4} day at the zoo."
-print(mad_libs)
+user_inputs = {
+    "adjective_1": adjective_1,
+    "noun_1": noun_1,
+    "verb_1": verb_1,
+    "adverb_1": adverb_1,
+    "adjective_2": adjective_2,
+    "noun_2": noun_2,
+    "noun_3": noun_3,
+    "noun_4": noun_4,
+    "adjective_3": adjective_3,
+    "verb_2": verb_2,
+    "adverb_2": adverb_2,
+    "verb_3": verb_3,
+    "adjective_4": adjective_4,
+}
+
+if random_story == 1:
+    file = open("01_mad_libs.txt", "r")
+    mad_libs = file.read()
+    file.close()
+
+print(mad_libs.format(**user_inputs))
