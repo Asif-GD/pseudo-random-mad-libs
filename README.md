@@ -6,7 +6,7 @@ I didn't know what it was until I came across this project.
 https://en.wikipedia.org/wiki/Mad_Libs
 
 ## About the project
-A simple program that requests the user for a certain number of words to be used across the story randomly chosen. The stories are stored as files part of the project.
+A simple program that requests the user for a certain number of words to be used across a story, randomly chosen. The stories are stored as files part of the project.
 
 ## Future Plans
 1. Add a few stories (upto 10)
