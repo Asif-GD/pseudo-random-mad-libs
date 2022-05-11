@@ -1,11 +1,11 @@
 # pseudo-random-mad-libs
 A Mad Libs program that's fun, quirky, and pseudo-random.
 
-### About Mad Libs
+## What are Mad Libs?
 I didn't know what it was until I came across this project.
 https://en.wikipedia.org/wiki/Mad_Libs
 
-### About the project
+## About the project
 A simple program that requests the user for a number of words to be used across the story randomly chosen. The stories are stored as files part of the project.
 
 ## Future Plans
