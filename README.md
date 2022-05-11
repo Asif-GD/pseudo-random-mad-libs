@@ -11,7 +11,7 @@ A simple program that requests the user for a number of words to be used across 
 ## Future Plans
 1. Add a few stories (upto 10)
 2. Take it to the web
-3. Use a AI text-generator api to develop the stories further.
+3. Use an AI text-generator api to develop the stories further.
 
 ## Credits
 1. Project Idea - 
