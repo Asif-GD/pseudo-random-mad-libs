@@ -1,13 +1,6 @@
 # mad libs
 # I will export a random mab lib from a file and ask the user to input words for it.
 
-# name = input("May I know your name please? ")
-# verb_1 = input("a verb: ")
-# adjective_1 = input("an adjective: ")
-#
-# sample_mad_lib = f"Hi {name}, you are here to {verb_1}. Do not give up for you are {adjective_1}."
-# print(sample_mad_lib)
-
 from random import randint
 
 
