@@ -1,7 +1,7 @@
 A Day At The Zoo!
-Today I went to the zoo. I saw a(n) {adjective_1} {noun_1} jumping up and down in its habitat.
+Today I went to the zoo. I was very {verb_3}! I saw a(n) {adjective_1} {noun_1} jumping up and down in their habitat.
 He {verb_1} through the large tunnel that led to its {adjective_2} {noun_2}.
 I got some {noun_3} and passed them through the cage to a gigantic {noun_4} towering above my head.
 Feeding that animal made me hungry. I went to get a {adjective_3} scoop of ice cream. It filled my stomach.
-Afterwards I had to {verb_2} to catch our bus. When I got home I hugged my mom for a
+Afterwards I {verb_2} to catch our bus. When I got home I hugged my mom for a
 {adjective_4} day at the zoo.
