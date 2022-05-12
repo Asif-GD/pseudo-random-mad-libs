@@ -6,12 +6,12 @@ I didn't know what it was until I came across this project.
 https://en.wikipedia.org/wiki/Mad_Libs
 
 ## About the project
-A simple program that requests the user for a number of words to be used across the story randomly chosen. The stories are stored as files part of the project.
+A simple program that requests the user for a certain number of words to be used across a story, randomly chosen. The stories are stored as files part of the project.
 
 ## Future Plans
 1. Add a few stories (upto 10)
 2. Take it to the web
-3. Use a AI text-generator api to develop the stories further.
+3. Use an AI text-generator api to develop the stories further.
 
 ## Credits
 1. Project Idea - 
